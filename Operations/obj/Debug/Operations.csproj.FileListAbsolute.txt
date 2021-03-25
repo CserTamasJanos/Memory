@@ -1,0 +1,12 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Memoria\Operations\bin\Debug\Operations.dll
+C:\VisualStudioProjects\Memoria\Operations\bin\Debug\Operations.pdb
+C:\VisualStudioProjects\Memoria\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\VisualStudioProjects\Memoria\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Memoria\Operations\obj\Debug\Operations.dll
+C:\VisualStudioProjects\Memoria\Operations\obj\Debug\Operations.pdb

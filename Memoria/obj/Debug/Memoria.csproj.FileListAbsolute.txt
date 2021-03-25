@@ -1,0 +1,34 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\bin\Debug\Memoria.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\bin\Debug\Memoria.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.BestResults.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.GameForm.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.GameStartSelection.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.Memory.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.Properties.Resources.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.NewGamer.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.csproj.CopyComplete
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Memoria\Memoria\bin\Debug\Memoria.exe.config
+C:\VisualStudioProjects\Memoria\Memoria\bin\Debug\Memoria.exe
+C:\VisualStudioProjects\Memoria\Memoria\bin\Debug\Memoria.pdb
+C:\VisualStudioProjects\Memoria\Memoria\bin\Debug\Operations.dll
+C:\VisualStudioProjects\Memoria\Memoria\bin\Debug\Operations.pdb
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.csprojAssemblyReference.cache
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.BestResults.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.GameForm.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.GameStartSelection.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.Memory.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.NewGamer.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.Properties.Resources.resources
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.csproj.GenerateResource.cache
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.csproj.CopyComplete
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.exe
+C:\VisualStudioProjects\Memoria\Memoria\obj\Debug\Memoria.pdb
